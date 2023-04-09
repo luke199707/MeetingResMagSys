@@ -1,0 +1,30 @@
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.DAL.dll.config
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.DAL.dll
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.DAL.pdb
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.Model.dll
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.Model.pdb
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.Model.dll.config
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.csprojAssemblyReference.cache
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.Properties.Resources.resources
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.csproj.GenerateResource.cache
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.csproj.CopyComplete
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.dll
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.pdb
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.DAL.dll.config
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.DAL.dll
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.DAL.pdb
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.Model.dll
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.Model.pdb
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\MeetingResMagSys.Model.dll.config
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.csproj.AssemblyReference.cache
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.Properties.Resources.resources
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.csproj.GenerateResource.cache
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.csproj.CoreCompileInputs.cache
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.csproj.CopyComplete
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.dll
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.DAL\obj\Debug\MeetingResMagSys.DAL.pdb

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+
+    <frameset id="frame" framespacing="0" border="0" rows="45,*" frameborder="0">
+        <frame src="Top.aspx" name="top" scrolling="no" noresize="true" style="z-index: 100" />
+        <frameset id="myFrame" name="myFrame" cols="190,*" framespacing="0" frameborder="no" border="0">
+            <frame name="left" src="Left.aspx" noresize="true" style="z-index: 1000;overflow-x:hidden " scrolling="no" />
+            <frameset id="myFrame2" name="myFrame" rows="*,3%" framespacing="0" frameborder="no" border="0">
+                <frame name="right" src="../Pages/Index.aspx" style="z-index: -100;overflow-x:hidden" scrolling="yes" />
+                <frame name="footer" src="Footer.html" style="z-index: -100;overflow-x:hidden" scrolling="no" />
+            </frameset>
+        </frameset>
+    </frameset>
+
+<noframes>
+    <body>
+        <p>
+            This page uses frames, but your browser doesn't support them.
+        </p>
+    </body>
+</noframes>
+</html>

@@ -1,0 +1,16 @@
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\obj\Debug\MeetingResMagSys.BLL.Properties.Resources.resources
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\obj\Debug\MeetingResMagSys.BLL.csproj.GenerateResource.cache
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\obj\Debug\MeetingResMagSys.BLL.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\bin\Debug\MeetingResMagSys.BLL.dll.config
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\bin\Debug\MeetingResMagSys.BLL.dll
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\bin\Debug\MeetingResMagSys.BLL.pdb
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\bin\Debug\MeetingResMagSys.DAL.dll
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\bin\Debug\MeetingResMagSys.Model.dll
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\bin\Debug\MeetingResMagSys.DAL.pdb
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\bin\Debug\MeetingResMagSys.DAL.dll.config
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\bin\Debug\MeetingResMagSys.Model.pdb
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\bin\Debug\MeetingResMagSys.Model.dll.config
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\obj\Debug\MeetingResMagSys.BLL.csprojAssemblyReference.cache
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\obj\Debug\MeetingResMagSys.BLL.csproj.CopyComplete
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\obj\Debug\MeetingResMagSys.BLL.dll
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.BLL\obj\Debug\MeetingResMagSys.BLL.pdb

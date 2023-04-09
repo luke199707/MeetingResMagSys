@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="MeetingResMagSys.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="Keywords" content="会议室预定管理系统" />
+    <meta name="description" content=" 会议室预定管理系统" />
+    <meta name="author" content="Luke" />
+    <title>会议室预定管理系统</title>
+    <!-- CSS -->
+    <link href="StyleSheet/bootstrap.css" rel="stylesheet" />
+    <link href="StyleSheet/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="StyleSheet/AdminTheme.css" rel="stylesheet" type="text/css" />
+    <link href="Plugins/toastr/toastr.min.css" rel="stylesheet" />
+
+    <script src="Scripts/jquery-3.4.1.min.js"></script>
+    <script src="Scripts/ace-extra.min.js" type="text/javascript"></script>
+    <!-- fancybox -->
+    <link href="Scripts/fancybox2.1.5/source/jquery.fancybox.css" rel="stylesheet" />
+    <script src="Scripts/fancybox2.1.5/source/jquery.fancybox.js"></script>
+    <script src="Scripts/fancybox2.1.5/source/jquery.fancybox.pack.js"></script>
+    <script src="Scripts/fancybox2.1.5/source/jquery.mousewheel-3.0.6.pack.js"></script>
+
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/holder.min.js" type="text/javascript"></script>
+    <script src="Scripts/ace-elements.min.js" type="text/javascript"></script>
+    <script src="Scripts/ace.min.js" type="text/javascript"></script>
+    <script src="Plugins/toastr/toastr.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager runat="server" ID="ScriptManager1">
+        </asp:ScriptManager>
+        <div class="main-container" id="main-container">
+            <div class="main-container-inner">
+                <div class="main-content">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

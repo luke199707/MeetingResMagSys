@@ -1,0 +1,18 @@
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\bin\Debug\MeetingResMagSys.Model.dll.config
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\bin\Debug\MeetingResMagSys.Model.dll
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\bin\Debug\MeetingResMagSys.Model.pdb
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.Properties.Resources.resources
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.csproj.GenerateResource.cache
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.dll
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.pdb
+D:\Visual Studio 2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.csprojAssemblyReference.cache
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\bin\Debug\MeetingResMagSys.Model.dll.config
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\bin\Debug\MeetingResMagSys.Model.dll
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\bin\Debug\MeetingResMagSys.Model.pdb
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.Properties.Resources.resources
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.csproj.GenerateResource.cache
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.csproj.CoreCompileInputs.cache
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.dll
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.pdb
+C:\luke_APPsoftware\VS2019\workspace\MeetingResMagSys\MeetingResMagSys.Model\obj\Debug\MeetingResMagSys.Model.csproj.AssemblyReference.cache
